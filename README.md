@@ -1,7 +1,7 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 ```
- NAME: THAKSHA RISHI
- REG NO: 212223100058
+ NAME: SHAIK SAMREEN
+ REG NO: 212223110047
 ```
 ## Aim:
 To move the files between virtual machine.
